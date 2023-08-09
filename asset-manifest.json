@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.227e06e5.css",
+    "main.js": "/portfolio/static/js/main.b5e39019.js",
+    "static/media/remixicon.svg?t=1690730386070": "/portfolio/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/portfolio/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/portfolio/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/hero.png": "/portfolio/static/media/hero.c73f9855f66778faf9e0.png",
+    "static/media/remixicon.woff?t=1690730386070": "/portfolio/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/portfolio-02.jpg": "/portfolio/static/media/portfolio-02.98a4cb5a6118961a2cb1.jpg",
+    "static/media/portfolio-03.jpg": "/portfolio/static/media/portfolio-03.914bcf8fa01dc69b0d56.jpg",
+    "static/media/portfolio-04.jpg": "/portfolio/static/media/portfolio-04.2c93e842f6ec6beac160.jpg",
+    "static/media/remixicon.woff2?t=1690730386070": "/portfolio/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/portfolio-07.jpg": "/portfolio/static/media/portfolio-07.a359e984c60372fcf828.jpg",
+    "static/media/portfolio-09.jpg": "/portfolio/static/media/portfolio-09.182c08dcdee24594474f.jpg",
+    "static/media/portfolio-05.jpg": "/portfolio/static/media/portfolio-05.f669dd2fc65aea9315f8.jpg",
+    "static/media/portfolio-01.jpg": "/portfolio/static/media/portfolio-01.01a6699492929dafc951.jpg",
+    "static/media/portfolio-06.jpg": "/portfolio/static/media/portfolio-06.00f9e779a4b0c7890c18.jpg",
+    "static/media/portfolio-10.jpg": "/portfolio/static/media/portfolio-10.10f970dd4b4aecf9997c.jpg",
+    "static/media/portfolio-11.jpg": "/portfolio/static/media/portfolio-11.af4ee293549398934844.jpg",
+    "static/media/portfolio-08.jpg": "/portfolio/static/media/portfolio-08.e00a8c577e2436b1b6ba.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.227e06e5.css.map": "/portfolio/static/css/main.227e06e5.css.map",
+    "main.b5e39019.js.map": "/portfolio/static/js/main.b5e39019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.227e06e5.css",
+    "static/js/main.b5e39019.js"
+  ]
+}
